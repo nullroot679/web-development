@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="index.php">
     <title>Register page</title>
 </head>
-<body>
-<main>
+<body bgcolor="red">
+    
     <form action="register.php" method="post">
         <h1>Sign Up</h1>
         <div>
@@ -36,6 +36,6 @@
         <button type="submit">Register</button>
         <footer>Already a member? <a href="login.php">Login here</a></footer>
     </form>
-</main>
 </body>
 </html>
+
